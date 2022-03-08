@@ -1,0 +1,4 @@
+ Ssortingng bip = "C:\Users\thoma\OneDrive\Bureau\song\explo.mp3";
+ Media hit = new Media(new File(bip).toURI().toSsortingng());
+ MediaPlayer mediaPlayer = new MediaPlayer(hit);
+ mediaPlayer.play(); 
